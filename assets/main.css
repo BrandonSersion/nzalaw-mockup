@@ -51,6 +51,10 @@ a:hover{
   text-decoration: none;
 }
 
+a:active{
+  color:#923530;
+}
+
 
 nav{
   margin-bottom:10px;
