@@ -11,6 +11,7 @@ div.whitespace{
   height:100%;
   box-shadow: 1px 1px 1px 1px gray;
   padding:10px;
+  margin-bottom: 50px;
 }
 
 img.logo{
@@ -28,7 +29,8 @@ ul#navbar{
   margin-right:45px;
   padding-top:5px;
   padding-bottom:5px;
-  font-size:14px;
+  font-size:13px;
+  display: block;
 }
 
 ul li {
@@ -79,6 +81,8 @@ h6.sidebar{
   font-weight: bold;
 }
 
+
+
 hr{
   color:black;
   margin-top:-3px;
@@ -98,6 +102,8 @@ ul li.sidebar{
   margin-bottom:8px;
   font-size:12px;
 }
+
+
 
 img#sidebar{
   margin-left:-28px;
@@ -124,6 +130,7 @@ span.sidebarbold{
   font-weight:bold;
 }
 
+
 span.sidebar{
   display:block;
   color:white;
@@ -132,6 +139,8 @@ span.sidebar{
   margin-top:-2px;
   padding-bottom:7px;
 }
+
+
 
 img.news{
   margin-left:12px;
@@ -172,4 +181,121 @@ a.top2,a.archive{
 
 a.top:visited{
   color:black;
+}
+
+hr.usahr {
+  width: 396px;
+  height: 2px;
+  display: block;
+  border-style: inset;
+  border-width: 1px;
+}
+
+hr.inthr{
+  height: 2px;
+  display: block;
+  border-style: inset;
+  border-width: 1px;
+
+}
+
+table{
+      width: 582px;
+}
+
+p.where{
+  width: 615px;
+  height: 95px;
+
+}
+
+ul#navbar2 {
+  width: 828px;
+  height: 21px;
+  display:inline block;
+  text-align: center;
+  font-size: 10px;
+  border-top: 3px;
+  border-color: black;
+
+}
+
+a.copyright{
+  font-size: 10px;
+  color: #c0c0c0;
+  text-align: center;
+
+}
+
+p.copyright{
+  text-align: center;
+  color: #c0c0c0;
+}
+
+a.copyright:hover{
+  color: #923530;
+}
+
+td{
+  font-size: 12px;
+}
+
+img.contactpg{
+margin-left: 10px;
+margin-top: 10px;
+margin-bottom: 15px;
+
+}
+
+footer {
+  display: inline-block;
+}
+
+div.brtext{
+  margin-left: 10px;
+  font-size: 12px;
+}
+
+tbody{
+  width: 200px;
+  height: 30px;
+}
+
+div.sidebar2{
+  width: 216px;
+  height: 296px;
+  background-color: #ddd7d2;
+  display: inline-block;
+  margin-left: -32px;
+}
+
+img.sidebar2{
+  margin-top: 9px;
+  margin-left: 9px;
+  box-shadow:black;
+}
+
+div.wherewework{
+  font-size: 10px;
+}
+
+li.sidebar2 {
+  margin-left: -40px;
+  margin-top: 9px;
+}
+
+div.wherewework{
+  margin-left: -30px;
+  margin-bottom: 17px;
+}
+
+div.brtext {
+  margin-bottom: 70%;
+}
+
+div.footrow{
+  margin-left: 186px;
+  font-size: 10px;
+  width: 828px;
+  height: 21px;
 }
